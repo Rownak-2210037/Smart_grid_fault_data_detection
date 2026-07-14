@@ -38,4 +38,4 @@ Download: https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
 Python • PyTorch • scikit-learn • pandas • SHAP • matplotlib
 
 ## Paper
-Conference paper submitted to [venue name] — 2025
+Conference paper submitted to [ICCET] — 2026
